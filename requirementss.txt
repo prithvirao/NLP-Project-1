@@ -1,0 +1,4 @@
+pip install transformers
+pip install sentencepiece
+pip install tweepy==3.7.0
+pip install nltk
