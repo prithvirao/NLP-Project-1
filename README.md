@@ -12,3 +12,14 @@ In this demo the 'keywords' has been set to 'earthquake'
 The dependencies have been specified in the requirements file. They are also specified in the ipynb file for ease so that you can directly start using the ipynb file.
 
 
+#Working of the code
+
+The code gets data in real-time from twitter. We are using Twitter API for the same. If you have the Twitter API credentials, you can set up your credentials as well
+
+
+#Event Analysis 
+We are performed event-analysis combining keyword-based filtering and geographical data. Instead of using the metadata of the twitter user to find the location. We are using Spacy and Nlp library to extract the location information directly from the tweet body. We are doing this in order to produce more relevant summaries according to the places where the events are actually happening.
+
+#Summarization
+For summarization, we are using a pretrained machine learning-based model 'T-5'. We have also experimented with 'Bert' but we observed better results from the 'T-5' model.
+The code will produce summaries clustered on the basis of the locations where the event occured for each day. 
