@@ -12,7 +12,7 @@ In this demo the 'keywords' has been set to 'earthquake'
 The dependencies have been specified in the requirements file. 
 You can simply run pip install -r requirementss.txt
 
-They are also specified in the ipynb file for ease so that you can directly start using the ipynb file.
+They are also specified in the ipynb file for ease so that you can directly start using the ipynb file. When you open the ipynb file, you will see an option on the top to open with collab as well.
 
 
 # Working of the code
