@@ -12,13 +12,12 @@ In this demo the 'keywords' has been set to 'earthquake'
 The dependencies have been specified in the requirements file. 
 You can simply run 
 ```diff
-**pip install -r requirementss.txt**
+pip install -r requirementss.txt
 ```
 
 They are also specified in the ipynb file for ease so that you can directly start using the ipynb file. When you open the ipynb file, you will see an option on the top to open with 
-```diff
-**google collab** 
-```
+
+`#0969DA **google collab**` 
 as well.
 
 
@@ -38,7 +37,5 @@ The code will produce summaries clustered on the basis of the locations where th
 # Reproducable Results
 This sample code has been set to obtain 100 tweets per day for keyword 'earthquake'. The code works in real-time, so when the code was run, the no of days was set to 5, thus summarization started from 2023-02-22. 
 To obtain the same results as shown in the jupyter notebook,   
-```diff
 **please change the value of no of days with respect to the current date**   
-```
 so that the results start from 2023-02-22. In the jupyter notebook we have also highlighted the part from where you can change the no of days.
