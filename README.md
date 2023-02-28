@@ -15,11 +15,7 @@ You can simply run
 pip install -r requirementss.txt
 ```
 
-They are also specified in the ipynb file for ease so that you can directly start using the ipynb file. When you open the ipynb file, you will see an option on the top to open with 
-
-`#0969DA **google collab**` 
-as well.
-
+They are also specified in the ipynb file for ease so that you can directly start using the ipynb file. When you open the ipynb file, you will see an option on the top to open with `google collab` as well.
 
 
 # Working of the code
