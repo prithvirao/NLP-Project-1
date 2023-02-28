@@ -9,7 +9,10 @@ In this demo the 'keywords' has been set to 'earthquake'
 
 # Setting up the environment
 
-The dependencies have been specified in the requirements file. They are also specified in the ipynb file for ease so that you can directly start using the ipynb file.
+The dependencies have been specified in the requirements file. 
+You can simply run pip install -r requirementss.txt
+
+They are also specified in the ipynb file for ease so that you can directly start using the ipynb file.
 
 
 # Working of the code
@@ -23,3 +26,7 @@ We are performed event-analysis combining keyword-based filtering and geographic
 # Summarization
 For summarization, we are using a pretrained machine learning-based model 'T-5'. We have also experimented with 'Bert' but we observed better results from the 'T-5' model.
 The code will produce summaries clustered on the basis of the locations where the event occured for each day. 
+
+# Reproducable Results
+This sample code has been set to obtain 100 tweets per day for keyword 'earthquake'. The code works in real-time, so when the code was run, the no of days was set to 5, thus summarization started from 2023-02-22. 
+To obtain the same results as shown in the jupyter notebook, please change the value of no of days with respect to the current date so that the results start from 2023-02-22. In the jupyter notebook we have also highlighted the part from where you can change the no of days.
