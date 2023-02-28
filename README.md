@@ -7,6 +7,10 @@ The values of 'm' and 'n' can be modified as per you like
 There is a list 'keywords' where you specify the keyword or keywords you want to use to get updates on.
 In this demo the 'keywords' has been set to 'earthquake'
 
+# Quickstart Guide
+You can simply open the quickstart guide and execute the 3 commands given over there on the terminal or bash to run the code
+`Note`: Since the code runs in real-time, the value of no of days needs to be changed in order to get the same results. We have explained about it in detail below
+
 # Setting up the environment
 
 The dependencies have been specified in the requirements file. 
