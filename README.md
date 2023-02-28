@@ -34,3 +34,5 @@ The code will produce summaries clustered on the basis of the locations where th
 This sample code has been set to obtain 100 tweets per day for keyword 'earthquake'. The code works in real-time, so when the code was run, the no of days was set to 5, thus summarization started from 2023-02-22. 
 To obtain the same results as shown in the jupyter notebook, `please change the value of no of days with respect to the current date in GMT`
 so that the results start from 2023-02-22. In the jupyter notebook we have also highlighted the part from where you can change the no of days.
+Below is the result screenshot for above parameters
+![alt text](https://github.com/prithvirao/NLP-Project-1/blob/main/Screenshot%202023-02-27%20at%208.26.02%20PM.png?raw=true)
