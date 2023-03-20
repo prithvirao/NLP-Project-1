@@ -1,0 +1,3 @@
+2023-03-14,"OpenAI launches GPT-4, the next generation large language model for artificial intelligence chatbot ChatGPT. The new model can respond to images, and has the ability to process up to 25,000 words."
+2023-03-16,"The British government bans the use of Chinese-owned video-sharing app TikTok on all government devices, citing security concerns."
+2023-03-17,"New Zealand bans the use of Chinese-owned video sharing app TikTok on all government devices."
